@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://lottiefiles.com/28615-coding-program/)
-
-
+<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://lottiefiles.com/28615-coding-program/)
+ -->
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <!--
 **ahsas5/ahsas5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
