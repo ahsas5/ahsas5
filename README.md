@@ -16,11 +16,12 @@ I am a full-stack software engineer currently working at <a href="https://udaan.
 
 - 👨🏻‍💻 I’m currently working in <a href="https://pickily.in/intro">Pickily</a> Team;
 - 🚀 I’m currently learning React and Kotlin.
-- 📫 How to reach me: ahsasvirgo@gmail.com;
+- 📫 How to reach me: ahsasvirgo@gmail.com.
 - 📝 [Resume](https://drive.google.com/file/d/1iwmyolXQ5hygZUjz6Mr5KU9YvD-1tLGO/view?usp=sharing).
 
 </br>
 
 
-### Let's connect for a coffee.
+ ## Ping me for a coffee <img src="https://media.giphy.com/media/SRr4hnysDxRQxhwfC9/giphy.gif" width="50px">.
 
+ <-- <--
