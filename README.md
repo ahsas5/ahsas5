@@ -19,6 +19,9 @@ I am a full-stack software engineer currently working at <a href="https://udaan.
 - 📫 How to reach me: ahsasvirgo@gmail.com.
 - 📝 [Resume](https://drive.google.com/file/d/1iwmyolXQ5hygZUjz6Mr5KU9YvD-1tLGO/view?usp=sharing).
 
+[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsas5&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/ahsas5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsas5&layout=compact&theme=calm)](https://github.com/ahsas5/github-readme-stats)
+
 </br>
 
 
