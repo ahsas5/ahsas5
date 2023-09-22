@@ -17,7 +17,7 @@ I am a full-stack software engineer currently working at <a href="https://udaan.
 - 👨🏻‍💻 I’m currently working in <a href="https://pickily.in/intro">Pickily</a> Team;
 - 🚀 I’m currently learning React and Kotlin.
 - 📫 How to reach me: ahsasvirgo@gmail.com.
-- 📝 [Resume](https://drive.google.com/file/d/1iwmyolXQ5hygZUjz6Mr5KU9YvD-1tLGO/view?usp=sharing).
+- 📁 More Info -  <a href="https://ahsas5.github.io/">Portfolio </a>.
 
 </br>
 
