@@ -7,20 +7,18 @@
 
 ### Glad to see you here!
 
-I am a full-stack software engineer currently working at <a href="https://udaan.com">Udaan</a>. I love programming & exploring new food.
+👨🏻‍💻 I am currently working as an SDE3 at <a href="https://agrevolution.in/">Dehaat</a>. I love programming & exploring new food.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working in <a href="https://pickily.in/intro">Pickily</a> Team;
-- 🚀 I’m currently learning React and Kotlin.
+- 🚀 I’m currently programming in Go and Python with expertise in Kotlin, React as well.
 - 📫 How to reach me: ahsasvirgo@gmail.com.
 - 📁 More Info -  <a href="https://ahsas5.github.io/">Portfolio </a>.
 
 </br>
-
 
  ## Ping me for a coffee <img src="https://media.giphy.com/media/SRr4hnysDxRQxhwfC9/giphy.gif" width="50px">.
 
