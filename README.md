@@ -7,14 +7,15 @@
 
 ### Glad to see you here!
 
-👨🏻‍💻 I am currently working as an SDE3 at <a href="https://agrevolution.in/">Dehaat</a>. I love programming & exploring new food.
+👨🏻‍💻 I am currently working as an SDE3 at <a href="https://www.nielsen.com/">Nielsen</a>. I love programming & exploring new food.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- 🚀 I’m currently programming in Go and Python with expertise in Kotlin, React as well.
+- 🚀 I’m currently programming in Go, Java and Python with expertise in Kotlin, React as well.
+- Learning Nest.js
 - 📫 How to reach me: ahsasvirgo@gmail.com.
 - 📁 More Info -  <a href="https://ahsas5.github.io/">Portfolio </a>.
 
