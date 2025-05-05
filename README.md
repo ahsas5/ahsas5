@@ -19,6 +19,9 @@
 - 📫 How to reach me: ahsasvirgo@gmail.com.
 - 📁 More Info -  <a href="https://ahsas5.github.io/">Portfolio </a>.
 
+[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsas5&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/ahsas5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsas5&layout=compact&theme=calm)](https://github.com/ahsas5/github-readme-stats)
+
 </br>
 
  ## Ping me for a coffee <img src="https://media.giphy.com/media/SRr4hnysDxRQxhwfC9/giphy.gif" width="50px">.
